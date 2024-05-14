@@ -11,4 +11,4 @@
 # Arthur Ângelo
 1. Atividade 1: Trello [Grupo de SWOT](https://trello.com/invite/b/BE9nLMap/ATTI5f81e4a3d1ffe12f617c5a6464ef9af81F1AC85C/swot)
 2. Atividade 2: [Individual gestão de projetos](https://trello.com/invite/b/lNW98mWE/ATTIf7bae4229bae87a4cfb13072a017bc840DC915B7/gestao-de-projetos)
-3. Atividade 3: 
+3. Atividade 3:[Grupo de organização de estudos](https://trello.com/invite/b/CZbbc4G3/ATTI8610a3036f19f49b66e61238d5ed0f740DDCEE24/organizacao-do-professor-para-fluxo-hibrido-na-escola)
