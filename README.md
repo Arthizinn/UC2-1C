@@ -8,3 +8,7 @@
 - Fork esse repositório e não altere no nome do repositório
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
+# Arthur Ângelo
+1. Atividade 1: Trello [Grupo de SWOT](https://trello.com/invite/b/BE9nLMap/ATTI5f81e4a3d1ffe12f617c5a6464ef9af81F1AC85C/swot)
+2. Atividade 2: [Individual gestão de projetos](https://trello.com/invite/b/lNW98mWE/ATTIf7bae4229bae87a4cfb13072a017bc840DC915B7/gestao-de-projetos)
+3. Atividade 3: 
