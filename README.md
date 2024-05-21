@@ -14,3 +14,5 @@
 3. Atividade 3:[Grupo de organização de estudos](https://trello.com/invite/b/CZbbc4G3/ATTI8610a3036f19f49b66e61238d5ed0f740DDCEE24/organizacao-do-professor-para-fluxo-hibrido-na-escola)
 4. Atividade 4: [Miro bussines model canva](https://miro.com/app/board/uXjVKGcMAX8=/?share_link_id=272662153810)
 5. Atividade 5: [Atividade-Emprego dos Sonhos](https://docs.google.com/document/d/1NV1gCHCTgXPk8wc8NmsgEgVrR5RLPK1g4XzCgVxayP8/edit?usp=sharing)
+6. Atividade 6: [Javascript](https://www.canva.com/design/DAGEjcwsWQw/oLc2Cb0vagBMyZSGDPg4ug/edit?utm_content=DAGEjcwsWQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+7. Atividade 7: [Fluxo hibrido na escola](https://trello.com/invite/b/CZbbc4G3/ATTI5ff16d515657cc60106f0421a7cc475462EE2D3B/organizacao-do-professor-para-fluxo-hibrido-na-escola)
