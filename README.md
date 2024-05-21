@@ -9,10 +9,9 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 # Arthur Ângelo
-1. Atividade 1: [Trello-Grupo de SWOT](https://trello.com/invite/b/BE9nLMap/ATTI5f81e4a3d1ffe12f617c5a6464ef9af81F1AC85C/swot)
-2. Atividade 2: [Individual gestão de projetos](https://trello.com/invite/b/lNW98mWE/ATTIf7bae4229bae87a4cfb13072a017bc840DC915B7/gestao-de-projetos)
-3. Atividade 3:[Grupo de organização de estudos](https://trello.com/invite/b/CZbbc4G3/ATTI8610a3036f19f49b66e61238d5ed0f740DDCEE24/organizacao-do-professor-para-fluxo-hibrido-na-escola)
-4. Atividade 4: [Miro bussines model canva](https://miro.com/app/board/uXjVKGcMAX8=/?share_link_id=272662153810)
-5. Atividade 5: [Atividade-Emprego dos Sonhos](https://docs.google.com/document/d/1NV1gCHCTgXPk8wc8NmsgEgVrR5RLPK1g4XzCgVxayP8/edit?usp=sharing)
-6. Atividade 6: [Javascript](https://www.canva.com/design/DAGEjcwsWQw/oLc2Cb0vagBMyZSGDPg4ug/edit?utm_content=DAGEjcwsWQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-7. Atividade 7: [Fluxo hibrido na escola](https://trello.com/invite/b/CZbbc4G3/ATTI5ff16d515657cc60106f0421a7cc475462EE2D3B/organizacao-do-professor-para-fluxo-hibrido-na-escola)
+1. Atividade: Grupo [Trello de SWOT](https://trello.com/invite/b/BE9nLMap/ATTI5f81e4a3d1ffe12f617c5a6464ef9af81F1AC85C/swot)
+2. Atividade: Individual [Gestão de projetos](https://trello.com/invite/b/lNW98mWE/ATTIf7bae4229bae87a4cfb13072a017bc840DC915B7/gestao-de-projetos)
+3. Atividade: Grupo [Organização de estudos](https://trello.com/invite/b/CZbbc4G3/ATTI8610a3036f19f49b66e61238d5ed0f740DDCEE24/organizacao-do-professor-para-fluxo-hibrido-na-escola)
+4. Atividade: Individual [Miro bussines model canva](https://miro.com/app/board/uXjVKGcMAX8=/?share_link_id=272662153810)
+5. Atividade: Individual [Atividade-Emprego dos Sonhos](https://docs.google.com/document/d/1NV1gCHCTgXPk8wc8NmsgEgVrR5RLPK1g4XzCgVxayP8/edit?usp=sharing)
+6. Atividade: Grupo [Javascript](https://www.canva.com/design/DAGEjcwsWQw/oLc2Cb0vagBMyZSGDPg4ug/edit?utm_content=DAGEjcwsWQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
