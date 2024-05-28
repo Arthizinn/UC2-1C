@@ -15,3 +15,4 @@
 4. Atividade: Individual [Miro bussines model canva](https://miro.com/app/board/uXjVKGcMAX8=/?share_link_id=272662153810)
 5. Atividade: Individual [Atividade-Emprego dos Sonhos](https://docs.google.com/document/d/1NV1gCHCTgXPk8wc8NmsgEgVrR5RLPK1g4XzCgVxayP8/edit?usp=sharing)
 6. Atividade: Grupo [Javascript](https://www.canva.com/design/DAGEjcwsWQw/oLc2Cb0vagBMyZSGDPg4ug/edit?utm_content=DAGEjcwsWQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+7. Atividade: Grupo [Gráfico de Gantt](https://docs.google.com/spreadsheets/d/1G1VWxcM7JbDCOmMCh7DgREZ6N2opwprjehFwmUOPJ5o/edit?usp=sharing)
